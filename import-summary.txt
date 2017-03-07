@@ -1,0 +1,333 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* FunnyQuotes.iml
+* classes\
+* classes\production\
+* classes\production\actionbarsherlock\
+* classes\production\actionbarsherlock\android\
+* classes\production\actionbarsherlock\android\support\
+* classes\production\actionbarsherlock\android\support\v4\
+* classes\production\actionbarsherlock\android\support\v4\app\
+* classes\production\actionbarsherlock\android\support\v4\app\Watson$OnCreateOptionsMenuListener.class
+* classes\production\actionbarsherlock\android\support\v4\app\Watson$OnOptionsItemSelectedListener.class
+* classes\production\actionbarsherlock\android\support\v4\app\Watson$OnPrepareOptionsMenuListener.class
+* classes\production\actionbarsherlock\android\support\v4\app\Watson.class
+* classes\production\actionbarsherlock\com\
+* classes\production\actionbarsherlock\com\actionbarsherlock\
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$Implementation.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnActionModeFinishedListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnActionModeStartedListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnCreateOptionsMenuListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnCreatePanelMenuListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnMenuItemSelectedListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnOptionsItemSelectedListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnPrepareOptionsMenuListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnPreparePanelListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\BuildConfig.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$attr.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$bool.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$color.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$dimen.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$drawable.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$id.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$integer.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$layout.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$string.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$style.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R$styleable.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\R.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$LayoutParams.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$OnMenuVisibilityListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$OnNavigationListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$Tab.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$TabListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\SherlockActivity.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\SherlockDialogFragment.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\SherlockExpandableListActivity.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\SherlockFragment.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\SherlockFragmentActivity.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\SherlockListActivity.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\SherlockListFragment.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\app\SherlockPreferenceActivity.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockCompat$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockCompat$ActionModeCallbackWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockCompat.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockNative$ActionModeCallbackWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockNative$ActionModeWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockNative.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\ResourcesCompat.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\app\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl$2.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl$ActionModeImpl.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl$TabImpl.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarWrapper$TabWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Animator$AnimatorListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Animator.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorListenerAdapter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$AnimatorSetListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$Builder.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$Dependency.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$DependencyListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$Node.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\FloatEvaluator.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\FloatKeyframeSet.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\IntEvaluator.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\IntKeyframeSet.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Keyframe$FloatKeyframe.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Keyframe$IntKeyframe.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Keyframe$ObjectKeyframe.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Keyframe.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\KeyframeSet.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ObjectAnimator.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\PropertyValuesHolder$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\PropertyValuesHolder$FloatPropertyValuesHolder.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\PropertyValuesHolder$IntPropertyValuesHolder.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\PropertyValuesHolder.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\TypeEvaluator.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$2.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$3.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$4.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$5.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$AnimationHandler.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$AnimatorUpdateListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\view\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\view\NineViewGroup.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\view\animation\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\view\animation\AnimatorProxy.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\widget\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\widget\NineFrameLayout.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\widget\NineHorizontalScrollView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\widget\NineLinearLayout.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\ActionProviderWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\StandaloneActionMode.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\View_HasStateListenerSupport.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\View_OnAttachStateChangeListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenu.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuItem.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuItemView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$ActionButtonSubmenu.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$HasPermanentMenuKey.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$OpenOverflowRunnable.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$OverflowMenuButton.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$OverflowPopup.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$PopupPresenterCallback.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$SavedState$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$SavedState.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuView$ActionMenuChildView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuView$LayoutParams.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\BaseMenuPresenter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ListMenuItemView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuBuilder$Callback.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuBuilder$ItemInvoker.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuBuilder.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuItemImpl.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuItemWrapper$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuItemWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPopupHelper$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPopupHelper$ExpandedIndexObserver.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPopupHelper$MenuAdapter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPopupHelper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPresenter$Callback.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPresenter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuView$ItemView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\SubMenuBuilder.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\SubMenuWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\AbsActionBarView$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\AbsActionBarView$VisibilityAnimListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\AbsActionBarView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarContainer.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarContextView$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarContextView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$2.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$3.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$ExpandedActionViewMenuPresenter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$HomeView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$SavedState$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$SavedState.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\CapitalizingButton.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\CapitalizingTextView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\CollapsibleActionViewWrapper.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner$RecycleBin.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner$SavedState$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner$SavedState.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$AdapterContextMenuInfo.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$AdapterDataSetObserver.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$OnItemLongClickListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$OnItemSelectedListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$SelectionNotifier.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsColorDrawable.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsLinearLayout.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$DropDownListView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$ListSelectorHider.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$PopupDataSetObserver.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$PopupScrollListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$PopupTouchInterceptor.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$ResizePopupRunnable.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$AccessibilityEventSender.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$RefreshProgressRunnable.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$SavedState$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$SavedState.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner$DropDownAdapter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner$DropdownPopup$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner$DropdownPopup.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner$SpinnerPopup.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsToast.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\PopupWindowCompat$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\PopupWindowCompat.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$TabAdapter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$TabClickListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$TabView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$VisibilityAnimListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\internal\widget\TabsLinearLayout.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\ActionMode$Callback.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\ActionMode.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\ActionProvider$SubUiVisibilityListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\ActionProvider.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\CollapsibleActionView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\Menu.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\MenuInflater$InflatedOnMenuItemClickListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\MenuInflater$MenuState.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\MenuInflater.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\MenuItem$OnActionExpandListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\MenuItem$OnMenuItemClickListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\MenuItem.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\SubMenu.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\Window$Callback.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\view\Window.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$ActivityChooserModelClient.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$ActivityResolveInfo.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$ActivitySorter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$DefaultSorter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$HistoricalRecord.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$HistoryLoader$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$HistoryLoader.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$HistoryPersister.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$OnChooseActivityListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$2.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$3.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$ActivityChooserViewAdapter.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$Callbacks.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$SetActivated.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$10.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$11.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$12.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$2.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$3.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$4.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$5.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$6.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$7.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$8.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$9.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$OnCloseListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$OnQueryTextListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$OnSuggestionListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$SearchAutoComplete.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider$1.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider$OnShareTargetSelectedListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider$ShareAcitivityChooserModelPolicy.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider$ShareMenuItemOnMenuItemClickListener.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SuggestionsAdapter$ChildViewCache.class
+* classes\production\actionbarsherlock\com\actionbarsherlock\widget\SuggestionsAdapter.class
+* proguard.cfg
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\com-apXgUDEE-mByhZgdV70223.jar => app\libs\com-apXgUDEE-mByhZgdV70223.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

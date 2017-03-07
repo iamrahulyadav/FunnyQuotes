@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-18a416f56bd4b77c0eb959453e3da9cbf6c8ff81.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-f6f81e5f43480c29ddbceaaa5ccab6133113856d.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-687494121bfd58678ea5554a806e598e0e3439a5.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-a8d1a1283568ca7519ee063228c1c9fc4d511933.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-532f2fd201fa5f9f92b36deb8c0e6e37b71df0fe.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-f22e66714354376a10139312670d26c5535a7f31.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-f8fa0d828f5dbed15dec31edc9f5dc1ed84917ac.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-16539aeaea76eecc1b5696190902ecfeaaab5c72.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-be944cfe18b340d5d3f31887ca7733e1022f41a3.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-e45ae5ed849857996939427d8bd6c3655d0fb5e4.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-301572a54a6a34a74bffcc78e69edb1432c377e2.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-16ed72460e6f17dc5a44b9001ac00250805a4cc1.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-35d1f74f6d017df0263038432524f5a00e2ec6af.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-7c2f0d4e43bc431ee9cea685f5645bb2a26dd734.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-e2f055d4b709e0a5a4b1acb193693273dd31439b.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-cf71675a630c4f05cebacb21e460bfd437499b08.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-c211cb31e6dfb76b953fe74477e42d155ea1e5a2.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\libs\com-mqnvnfx-itwsdvr70223.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7d000b47f30541f811cd9bca77876a64430f7202">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\com-mqnvnfx-itwsdvr70223-6a97f852abca80e3d7dd1b8767c8aa410768bfe3.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-e5348da6f4700138a600f9a7f7d2ac71722ebd93.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-fe91d924f339484a5651843a74300488d167ba13.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-6ec477660ec004addfabc90b0ce6e86074c3b1ae.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-4eceb25a869fbf7a3aee635ed1d7b5d0c7e77424.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="F:\Rudrik\GRADLE\FunnyQuotes\app\build\intermediates\pre-dexed\debug\classes-f4664d4bd5e7681f0222c3f7c41d7fea821b4a04.jar" />
+    </item>
+
+</items>
